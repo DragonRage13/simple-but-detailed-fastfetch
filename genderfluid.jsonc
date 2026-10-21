@@ -25,7 +25,7 @@
 
     { "type": "custom", "format": "{#38;5;211}┌─ System"},
     { "type": "os",       "key": "│ Distro",   "keyColor": "38;5;211" },
-    { "type": "disk",     "key": "│ Age", "keyColor": "38;5;169", "folders": "/", "format": "{create-time:10} ({days} days)"},
+    { "type": "disk",     "key": "│ Age", "keyColor": "38;5;211", "folders": "/", "format": "{create-time:10} ({days} days)"},
     { "type": "host",     "key": "│ Host",     "keyColor": "38;5;211" },
     { "type": "bios",     "key": "│ BIOS",     "keyColor": "38;5;211" },
     { "type": "bootmgr",  "key": "│ Boot",     "keyColor": "38;5;211" },
